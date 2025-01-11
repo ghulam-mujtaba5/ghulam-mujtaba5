@@ -10,7 +10,7 @@
 
 <p align="left">
   <a href="https://www.credly.com/badges/2814337b-8dd5-4215-8717-102a438cef5c/public_url" target="_blank">
-    <img src="https://github.com/ghulam-mujtaba5/ghulam-mujtaba5/blob/ab23c0555a43189e3ef9941da8582e60597cdbd9/google-cybersecurity-certificate.png" alt="Google Cybersecurity" width="110" height="120">
+    <img src="https://github.com/ghulam-mujtaba5/ghulam-mujtaba5/blob/ab23c0555a43189e3ef9941da8582e60597cdbd9/google-cybersecurity-certificate.png" alt="Google Cybersecurity" width="120" height="110">
   </a>
   <a href="https://www.credly.com/badges/541285d6-1075-47ba-94df-c497ecd15253/public_url" target="_blank">
     <img src="https://github.com/ghulam-mujtaba5/ghulam-mujtaba5/blob/ab23c0555a43189e3ef9941da8582e60597cdbd9/google-data-analytics-professional-certificate.2.png" alt="Google Data Analytics Professional" width="100" height="110">
