@@ -22,6 +22,6 @@
     <img src="https://github.com/ghulam-mujtaba5/ghulam-mujtaba5/blob/ab23c0555a43189e3ef9941da8582e60597cdbd9/google-ux-design-professional-certificate.2.png" alt="Google UX Design Professional" width="125" height="140">
   </a>
   <a href="https://www.credly.com/badges/93faaef5-98e6-4bac-b859-86078fa46048/public_url" target="_blank">
-    <img src="https://github.com/ghulam-mujtaba5/ghulam-mujtaba5/blob/ab23c0555a43189e3ef9941da8582e60597cdbd9/meta-front-end-developer-certificate.png" alt="Meta Front-End Developer" width="125" height="120">
+    <img src="https://github.com/ghulam-mujtaba5/ghulam-mujtaba5/blob/ab23c0555a43189e3ef9941da8582e60597cdbd9/meta-front-end-developer-certificate.png" alt="Meta Front-End Developer" width="115" height="120">
   </a>
 </p>
