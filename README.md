@@ -9,7 +9,7 @@
 ## 🏆 Certifications
 
 <p align="center">
-  <img src="https://github.com/ghulam-mujtaba5/ghulam-mujtaba5/blob/ab23c0555a43189e3ef9941da8582e60597cdbd9/google-cybersecurity-certificate.png" alt="Google Cybersecurity" width="160" height="160">
+  <img src="https://github.com/ghulam-mujtaba5/ghulam-mujtaba5/blob/ab23c0555a43189e3ef9941da8582e60597cdbd9/google-cybersecurity-certificate.png" alt="Google Cybersecurity" width="150" height="150">
   <img src="https://github.com/ghulam-mujtaba5/ghulam-mujtaba5/blob/ab23c0555a43189e3ef9941da8582e60597cdbd9/google-data-analytics-professional-certificate.2.png" alt="Google Data Analytics Professional" width="125" height="140">
   <img src="https://github.com/ghulam-mujtaba5/ghulam-mujtaba5/blob/ab23c0555a43189e3ef9941da8582e60597cdbd9/google-project-management-professional-certificate.2.png" alt="Google Project Management" width="125" height="140">
   <img src="https://github.com/ghulam-mujtaba5/ghulam-mujtaba5/blob/ab23c0555a43189e3ef9941da8582e60597cdbd9/google-ux-design-professional-certificate.2.png" alt="Google UX Design Professional" width="125" height="140">
