@@ -75,7 +75,7 @@ I'm a Software Engineer focused on building end‑to‑end solutions that integr
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ghulam-mujtaba5&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" height="160" />
-  <img src="https://streak-stats.demolab.com?user=ghulam-mujtaba5&hide_border=true&theme=transparent" alt="GitHub Streak" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=ghulam-mujtaba5&hide_border=true&theme=transparent&v=2" alt="GitHub Streak" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghulam-mujtaba5&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="160" />
 </div>
 
