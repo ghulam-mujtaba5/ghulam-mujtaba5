@@ -27,24 +27,24 @@ I'm a Software Engineer focused on building end‑to‑end solutions that integr
  <!-- Certifications Section -->
  ## 🏆 Certifications
 
-<p align="left">
+  <p align="left">
   <a href="https://www.credly.com/badges/2814337b-8dd5-4215-8717-102a438cef5c/public_url" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/ghulam-mujtaba5/ghulam-mujtaba5/blob/ab23c0555a43189e3ef9941da8582e60597cdbd9/google-cybersecurity-certificate.png" alt="Google Cybersecurity" height="110" loading="lazy">
+    <img src="./google-cybersecurity-certificate.png" alt="Google Cybersecurity" height="110" loading="lazy">
   </a>
   <a href="https://www.credly.com/badges/541285d6-1075-47ba-94df-c497ecd15253/public_url" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/ghulam-mujtaba5/ghulam-mujtaba5/blob/ab23c0555a43189e3ef9941da8582e60597cdbd9/google-data-analytics-professional-certificate.2.png" alt="Google Data Analytics Professional" height="110" loading="lazy">
+    <img src="./google-data-analytics-professional-certificate.2.png" alt="Google Data Analytics Professional" height="110" loading="lazy">
   </a>
   <a href="https://www.credly.com/badges/da84c359-2546-462f-893f-435b90ea9f51/public_url" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/ghulam-mujtaba5/ghulam-mujtaba5/blob/ab23c0555a43189e3ef9941da8582e60597cdbd9/google-project-management-professional-certificate.2.png" alt="Google Project Management" height="110" loading="lazy">
+    <img src="./google-project-management-professional-certificate.2.png" alt="Google Project Management" height="110" loading="lazy">
   </a>
   <a href="https://www.credly.com/badges/9bd08c36-473a-43a4-bd93-77352b3205c5/public_url" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/ghulam-mujtaba5/ghulam-mujtaba5/blob/ab23c0555a43189e3ef9941da8582e60597cdbd9/google-ux-design-professional-certificate.2.png" alt="Google UX Design Professional" height="110" loading="lazy">
+    <img src="./google-ux-design-professional-certificate.2.png" alt="Google UX Design Professional" height="110" loading="lazy">
   </a>
   <a href="https://www.credly.com/badges/84029f3d-2865-44f4-87fb-9a9117d5f665/public_url" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/ghulam-mujtaba5/ghulam-mujtaba5/blob/1f3ae1acc0a43e77cf43047f5565cad701f50236/google-advanced-data-analytics-certificate.png" alt="Google Advanced Data Analytics" height="110" loading="lazy">
+    <img src="./google-advanced-data-analytics-certificate.png" alt="Google Advanced Data Analytics" height="110" loading="lazy">
   </a>
   <a href="https://www.credly.com/badges/93faaef5-98e6-4bac-b859-86078fa46048/public_url" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/ghulam-mujtaba5/ghulam-mujtaba5/blob/ab23c0555a43189e3ef9941da8582e60597cdbd9/meta-front-end-developer-certificate.png" alt="Meta Front-End Developer" height="110" loading="lazy">
+    <img src="./meta-front-end-developer-certificate.png" alt="Meta Front-End Developer" height="110" loading="lazy">
   </a>
 
 </p>
