@@ -21,7 +21,7 @@
  
  ## 👨‍💻 About Me
 
-I'm a Software Engineer focused on building end‑to‑end solutions that integrate Data Science, Machine Learning, and AI. I care about clean design, reliable delivery, and seamless integration—from idea to production.
+I'm a Software Engineer focused on building end‑to‑end solutions that integrate Data Science, Machine Learning, and AI. 
 
 - 🎓 Undergrad at Comsats University Islamabad, Lahore Campus
 - 🧠 Focus: Full Stack Development, Data Science, AI/ML
@@ -54,31 +54,12 @@ I'm a Software Engineer focused on building end‑to‑end solutions that integr
 
 ---
 
-## 🧰 Tech Stack
-
-<!-- Keep this list focused and truthful. Add/remove as you see fit. -->
-- Languages: C/C++, Python, JavaScript/TypeScript
-- Frontend: React, HTML5, CSS3, TailwindCSS
-- Backend: Node.js/Express, REST APIs
-- Data: SQL, Pandas, NumPy
-- DevOps/Tools: Git & GitHub, Docker (basics), Linux
-
-## 🚀 Featured Projects
-
-- Smart Resource Management — Live Preview • View Code
-- Data Visualization Platform — Live Preview • [View Code](https://github.com/ghulam-mujtaba5)
-- AI‑Powered Analytics — Live Preview
-
-## ✍️ Latest Articles
-
-- [From Static Data to MongoDB: Migrating Projects](https://www.ghulammujtaba.com/articles/from-static-data-to-mongodb-migrating-projects)
-- [Tiptap + Next.js: Rich Text Editing Done Right](https://www.ghulammujtaba.com/articles/tiptap-nextjs-rich-text-editing-done-right)
 
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ghulam-mujtaba5&show_icons=true&theme=transparent" alt="GitHub Stats" height="160" />
-  <img src="https://streak-stats.demolab.com?user=ghulam-mujtaba5&theme=transparent" alt="GitHub Streak" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ghulam-mujtaba5&hide_border=true&theme=dark&cache_seconds=86400" alt="GitHub Streak" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghulam-mujtaba5&layout=compact&theme=transparent" alt="Top Languages" height="160" />
 </div>
 
