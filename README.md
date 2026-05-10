@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=4573df&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Ghulam+Mujtaba;AI+Software+Engineer+%26+Founder+%40+Megicode;Building+AI-powered+products;Full-stack+platforms+%26+mobile+apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=4573df&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Ghulam+Mujtaba;Software+Engineer;Founder+%40+Megicode" alt="Typing SVG" />
 
 <br/>
 
-**AI Software Engineer & Founder at Megicode · Building AI-powered products, full-stack platforms & mobile apps ·**
+**Software Engineer & Founder at Megicode**
 
 <br/>
 
@@ -38,7 +38,7 @@
 I'm a **Software Engineer** from Lahore, Pakistan, completing my BSc in Software Engineering at **COMSATS University Islamabad**. I founded **[Megicode](https://megicode.com)** and built **CampusAxis**, a student platform for university resources, lost and found, daily tools, calculators, and blogs, now serving **260+ Pakistani institutions**.
 
 - 🎓 BSc Software Engineering — COMSATS University Islamabad, Lahore Campus
-- 🏢 Founder & CEO — **[Megicode](https://megicode.com)**
+- 🏢 Founder — **[Megicode](https://megicode.com)**
 - 🚀 Creator of **CampusAxis** — powering 260+ universities across Pakistan with essential student tools
 - 🤖 Deep interest in: LLMs, RAG pipelines, autonomous agents & AI in production
 - 🔗 Currently building: **MegiLance** — AI + blockchain freelancing platform (Final Year Project)
