@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Ghulam+Mujtaba;AI+Software+Engineer+%26+Entrepreneur;Founder+%40+Megicode;Building+Real+AI+in+Production;Full+Stack+%7C+ML+%7C+Mobile" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=4573df&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Ghulam+Mujtaba;AI+Software+Engineer+%26+Founder+%40+Megicode;Building+AI-powered+products;Full-stack+platforms+%26+mobile+apps" alt="Typing SVG" />
 
 <br/>
 
-**Software Entrepreneur · AI/ML Engineer · Full Stack Builder**
-
-*Building AI-powered products end‑to‑end — from the model to the app shipping it.*
+**AI Software Engineer & Founder at Megicode · Building AI-powered products, full-stack platforms & mobile apps ·**
 
 <br/>
 
 <a href="https://ghulammujtaba.com">
-  <img src="https://img.shields.io/badge/Portfolio-ghulammujtaba.com-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-ghulammujtaba.com-4573df?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 <a href="https://megicode.com">
-  <img src="https://img.shields.io/badge/Company-megicode.com-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Company-megicode.com-4573df?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="https://github.com/megicodes">
   <img src="https://img.shields.io/badge/Org-%40megicodes-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -29,7 +27,7 @@
   <img src="https://img.shields.io/github/followers/ghulam-mujtaba5?label=Followers&style=social" />
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=ghulam-mujtaba5&style=flat&color=0EA5E9&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=ghulam-mujtaba5&style=flat&color=4573df&label=Profile+Views" />
 
 </div>
 
@@ -37,11 +35,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer & Founder** from Lahore, Pakistan, completing my BSc in Software Engineering at **COMSATS University Islamabad**. I founded **[Megicode](https://megicode.com)** — an AI-first product studio and tech partner for startups — and built **CampusAxis**, a university management portal now serving **260+ Pakistani institutions**.
+I'm a **Software Engineer** from Lahore, Pakistan, completing my BSc in Software Engineering at **COMSATS University Islamabad**. I founded **[Megicode](https://megicode.com)** and built **CampusAxis**, a student platform for university resources, lost and found, daily tools, calculators, and blogs, now serving **260+ Pakistani institutions**.
 
 - 🎓 BSc Software Engineering — COMSATS University Islamabad, Lahore Campus
-- 🏢 Founder & CEO — **[Megicode](https://megicode.com)** · *The technical co-founder every startup deserves*
-- 🚀 Creator of **CampusAxis** — powering 260+ universities across Pakistan
+- 🏢 Founder & CEO — **[Megicode](https://megicode.com)**
+- 🚀 Creator of **CampusAxis** — powering 260+ universities across Pakistan with essential student tools
 - 🤖 Deep interest in: LLMs, RAG pipelines, autonomous agents & AI in production
 - 🔗 Currently building: **MegiLance** — AI + blockchain freelancing platform (Final Year Project)
 - 🛠️ I ship end-to-end: ML model → API → UI → cloud deployment
@@ -53,8 +51,8 @@ I'm a **Software Engineer & Founder** from Lahore, Pakistan, completing my BSc i
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🤖 **MegiLance** | AI + blockchain freelancing platform — FYP connecting clients & freelancers with AI matching and on-chain payments | Next.js · FastAPI · Blockchain |
-| 🏫 **CampusAxis** | University portal serving 260+ Pakistani institutions with student portals & institutional dashboards | Next.js · MongoDB · Supabase |
-| 🏢 **Megicode Platform** | AI tech partner portal — CTO-level guidance & AI-powered software delivery for startups | Next.js · Node.js · AWS |
+| 🏫 **CampusAxis** | Student community portal serving 260+ Pakistani institutions with resources and daily tools | Next.js · MongoDB · Supabase |
+| 🏢 **Megicode** | AI software company — AI-powered software delivery for startups | Next.js · Node.js · AWS |
 
 ---
 
@@ -126,7 +124,7 @@ I'm a **Software Engineer & Founder** from Lahore, Pakistan, completing my BSc i
     </td>
     <td width="50%" valign="top">
       <h3>🏫 CampusAxis</h3>
-      <p>University management portal serving <strong>260+ Pakistani institutions</strong>. Features student portals, academic calendars, admin dashboards, and institutional tooling.</p>
+      <p>Student community platform serving <strong>260+ Pakistani institutions</strong>. Discover student resources, lost and found items, daily tools, calculators, and blogs.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
@@ -145,30 +143,12 @@ I'm a **Software Engineer & Founder** from Lahore, Pakistan, completing my BSc i
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏥 <a href="https://github.com/ghulam-mujtaba5/HealSmart">HealSmart</a></h3>
-      <p>Cross-platform mobile app for alternative medicine discovery, price comparison, and personal health journey tracking.</p>
+      <h3>🎓 <a href="https://github.com/ghulam-mujtaba5/PakUniApp">Pak Uni App</a></h3>
+      <p>A comprehensive mobile application tailored for university students in Pakistan, offering everyday resources and community features.</p>
       <p>
         <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💰 <a href="https://github.com/ghulam-mujtaba5/DigiFinSense">DigiFinSense</a></h3>
-      <p>Smart personal finance app with AI-driven expense tracking, budgeting tools, and analytics visualizations with cloud sync.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏛️ <a href="https://github.com/ghulam-mujtaba5/citizenconnect">CitizenConnect</a></h3>
-      <p>Civic platform for Pakistani citizens to access government services, emergency assistance, and community support in one place.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
       </p>
     </td>
   </tr>
@@ -204,7 +184,7 @@ I'm a **Software Engineer & Founder** from Lahore, Pakistan, completing my BSc i
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghulam-mujtaba5&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ghulam-mujtaba5&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=ghulam-mujtaba5&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 </div>
 <div align="center">
@@ -213,31 +193,14 @@ I'm a **Software Engineer & Founder** from Lahore, Pakistan, completing my BSc i
 
 ---
 
-## 💼 Megicode — AI Tech Partner for Startups
-
-> *"The technical co-founder every startup deserves."*
-
-At **[Megicode](https://megicode.com)** we deliver production-grade AI — not chatbot demos. We work with non-technical founders and growth-stage startups as their embedded tech team.
-
-**Services:** LLM integration · RAG pipelines · Autonomous agents · SaaS platforms · Mobile apps · UI/UX design · Cloud & DevOps · Data analytics
-
-<a href="https://megicode.com">
-  <img src="https://img.shields.io/badge/Work_With_Us-megicode.com-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="mailto:contact@megicode.com">
-  <img src="https://img.shields.io/badge/Get_In_Touch-contact%40megicode.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
----
-
 ## 📫 Connect
 
 <p>
   <a href="https://ghulammujtaba.com">
-    <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-4573df?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://megicode.com">
-    <img src="https://img.shields.io/badge/Megicode-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Megicode-4573df?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://github.com/megicodes">
     <img src="https://img.shields.io/badge/%40megicodes-181717?style=for-the-badge&logo=github&logoColor=white" />
