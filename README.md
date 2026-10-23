@@ -50,6 +50,7 @@ I'm a **Software Engineer** from Lahore, Pakistan, completing my BSc in Software
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| 🇬🇧 **[BargainStore.uk](https://www.bargainstore.uk.com)** | Enterprise UK retail e-commerce platform & edge admin suite — live UK consumer storefront with Turso libSQL | Next.js 15 · React 19 · Turso · Drizzle |
 | 🤖 **MegiLance** | AI + blockchain freelancing platform — FYP connecting clients & freelancers with AI matching and on-chain payments | Next.js · FastAPI · Blockchain |
 | 🏫 **CampusAxis** | Student community portal serving 260+ Pakistani institutions with resources and daily tools | Next.js · MongoDB · Supabase |
 | 🏢 **Megicode** | AI software company — AI-powered software delivery for startups | Next.js · Node.js · AWS |
@@ -114,6 +115,16 @@ I'm a **Software Engineer** from Lahore, Pakistan, completing my BSc in Software
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🇬🇧 <a href="https://www.bargainstore.uk.com">BargainStore.uk</a></h3>
+      <p>Enterprise UK retail e-commerce platform & edge admin suite. High-performance Next.js 15 App Router, debounced search, UK checkout & Turso libSQL edge DB. Live at <a href="https://www.bargainstore.uk.com">bargainstore.uk.com</a>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_15-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Turso-4FF8D2?style=flat-square&logo=sqlite&logoColor=black" />
+        <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🤖 MegiLance</h3>
       <p>AI + blockchain freelancing platform — my Final Year Project. Matches clients and freelancers intelligently with AI-powered recommendations and on-chain payment rails.</p>
       <p>
@@ -122,6 +133,8 @@ I'm a **Software Engineer** from Lahore, Pakistan, completing my BSc in Software
         <img src="https://img.shields.io/badge/Blockchain-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🏫 CampusAxis</h3>
       <p>Student community platform serving <strong>260+ Pakistani institutions</strong>. Discover student resources, lost and found items, daily tools, calculators, and blogs.</p>
@@ -131,7 +144,6 @@ I'm a **Software Engineer** from Lahore, Pakistan, completing my BSc in Software
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black" />
       </p>
     </td>
-  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🛍️ <a href="https://github.com/ghulam-mujtaba5/Megicloth">Megicloth</a></h3>
